@@ -1,6 +1,6 @@
 **Abaixo estara a Lib da nossa Ui
 
-local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/7yhx/kwargs_Ui_Library/main/source.lua"))()
+local Lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/SkYukki/New-Repository-3.0/main/script.txt"))()
 
 local UI = Lib:Create{
     Theme = "Dark", -- or any other theme
